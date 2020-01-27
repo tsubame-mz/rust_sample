@@ -10,3 +10,6 @@ Cargo.lock
 **/*.rs.bk
 01_HelloWorld/hello_cargo/target/
 02_GuessingGame/target/
+03_Basic/01_Variables/target/
+03_Basic/02_Function/target/
+03_Basic/03_Branches/target/
