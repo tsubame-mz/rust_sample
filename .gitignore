@@ -13,3 +13,5 @@ Cargo.lock
 03_Basic/01_Variables/target/
 03_Basic/02_Function/target/
 03_Basic/03_Branches/target/
+03_Basic/04_Ownership/target/
+03_Basic/05_Slice/target/
